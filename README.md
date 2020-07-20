@@ -1,16 +1,25 @@
-### Hi there 👋
+### Engincan Veske 👨‍💻
 
-<!--
-**Dustray/Dustray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/Dustray.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Dustray?tab=followers)
 
-Here are some ideas to get you started:
+**💼 Currently a fan of:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://developer.microsoft.com/zh-cn/windows/" target="_blank"><img height="90" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></a>
+
+**💼 Currently working as:** Software Engineering Intern at **Light-Vertices**
+
+**👨🏻‍💻 Currently working on:** 
+
+<code><a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+
+![Dustray's github stats](https://github-readme-stats.vercel.app/api?username=Dustray&show_icons=true&line_height=30)
+
+**👨🏻‍💻 Currently programing by:** 
+
+<code><a href="https://visualstudio.microsoft.com/" target="_blank"><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/visual-studio.svg"></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/visual-studio-code.svg"></a></code>
+
+🌱 Learning all about **Open Source**
+
+⭐️ From [Dustray](https://github.com/Dustray)
