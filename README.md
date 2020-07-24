@@ -17,8 +17,8 @@
 
 **👨🏻‍💻 Currently programing by:** 
 
-<code><a href="https://visualstudio.microsoft.com/" target="_blank"><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/visual-studio.svg"></a></code>
-<code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/visual-studio-code.svg"></a></code>
+<code><a href="https://visualstudio.microsoft.com/" target="_blank"><img height="50" src="./logos/visual-studio.svg"></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="./logos/visual-studio-code.svg"></a></code>
 
 🌱 Learning all about **Open Source**
 
